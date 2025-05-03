@@ -1,6 +1,6 @@
 # Astrally Project Progress & Plan
 
-This repository contains the project progress and strategic plan for **Astrally**, a proposed service specializing in full-stack data migration, analytics, and SMS marketing consulting services.
+This repository contains the project progress and strategic plan for **AstrallyTech** - https://astrallytech.com/, a proposed service specializing in full-stack data migration, analytics, and SMS marketing consulting services.
 
 The accompanying presentation file provides a comprehensive overview of the project, including details that align with the following project scope, timeline, and deliverables.
 
