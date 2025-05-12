@@ -1,48 +1,37 @@
-# Astrally Project Progress & Plan
+# Marketing Strategy Project - AstrallyTech
 
-This repository contains the project progress and strategic plan for **AstrallyTech** - https://astrallytech.com/, a proposed service specializing in full-stack data migration, analytics, and SMS marketing consulting services.
+## Project Overview
 
-The accompanying presentation file provides a comprehensive overview of the project, including details that align with the following project scope, timeline, and deliverables.
+This repository contains the midterm and final presentation files for the Marketing Strategy project for AstrallyTech, developed as part of the Marketing Strategy course at the University of Texas at Dallas.
 
-## Project Scope
+Website: [AstrallyTech](https://www.astrallytech.com)
 
-Develop a Marketing Strategy Project for the Technology Start-up, Astrally, focusing on:
+Group Name: **TechSurfers**
 
-* Technology Consulting Services (IT consulting in Data Management, IT Infrastructure space – Server, network, storage)
-* Technology Staffing/Recruiting (Technology staffing services – Business Analyst, Product Owner, Product Manager, Product Engineer)
-* Technology Products (e.g. Business Project Management App – Monday.com, MS Project, JIRA and SMS Marketing)
+## Project Phases
 
-## Project Timeline (Agenda DRAFT)
+1. Research and Analysis
+2. Strategy Development
+3. Marketing Plan and Execution Framework
+4. Implementation Roadmap
+5. Performance Management and Optimization
 
-The project timeline is structured into the following phases:
+## Deliverables
 
-* **Phase 1: Research and Analysis**
-* **Phase 2: Strategy Development**
-* **Phase 3: Marketing Plan and Execution Framework**
-* **Phase 4: Implementation Roadmap**
-* **Phase 5: Performance Management and Optimization**
-
-Additional aspects covered in the project include Deliverables, Timelines, Budget, and a Final Review.
-
-## Project Deliverables
-
-The key deliverables for this project are:
-
-* Market research report and competitor analysis.
-* Customer personas and target audience insights.
-* Brand positioning and messaging framework.
-* Comprehensive marketing strategy document.
-* Execution roadmap with timelines.
-* Performance measurement framework.
+* Market research and competitor analysis
+* Customer personas and target audience insights
+* Brand positioning and messaging framework
+* Marketing strategy document
+* Implementation roadmap
+* Performance measurement framework
 
 ## Files
 
-* `TechSurfers Project for Astrally.pptx`: The main presentation file containing the full project plan details.
+* **TechSurfers(Group 13) Mid Term.pptx** – Overview of initial research, strategy framework, and proposed marketing approach.
+* **TechSurfers(Group_13) Final Presentation.pptx** – Comprehensive marketing strategy, including implementation roadmap, budget, and performance measurement framework.
 
-## How to View the Presentation
+## Acknowledgments
 
-To view the full details of the Astrally project plan, please download the `TechSurfers Project for Astrally.pptx` file and open it with presentation software such as Microsoft PowerPoint, Google Slides, or similar applications.
+* Project guided by Mr. Dhimant Korant, Co-Founder & CEO, AstrallyTech.
 
----
-
-This document serves as a central point for understanding the vision, strategy, and execution plan for the Astrally project.
+For questions or contributions, please open an issue.
