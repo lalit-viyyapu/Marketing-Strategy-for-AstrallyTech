@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the midterm and final presentation files for the Marketing Strategy project for AstrallyTech, developed as part of the Marketing Strategy course at the University of Texas at Dallas.
+This repository contains the midterm and final presentation files for the Marketing Strategy project for AstrallyTech, developed as part of the Digital Consulting Project course at the University of Texas at Dallas.
 
 Website: [AstrallyTech](https://www.astrallytech.com)
 
